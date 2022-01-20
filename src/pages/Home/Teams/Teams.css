@@ -1,0 +1,15 @@
+.our-team col {
+   padding: 50px;
+}
+
+.our-team img {
+   height: 100px;
+   width: 100px;
+   border-radius: 50%;
+   margin: auto;
+   border: 1px solid black;
+}
+.our-team {
+   margin-top: 20px;
+   margin-bottom: 100px;
+}

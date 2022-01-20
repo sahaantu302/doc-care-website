@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "name": "Cardiologist",
+        "description": "A cardiologist is a doctor that deals with the cardiovascular system. This means he or she treats any abnormality in our blood vessels and heart.",
+        "img": "https://www.hawaiipacifichealth.org/media/3922/what-is-a-cardiologist-web.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Audiologist",
+        "description": "As the name suggests, an audiologist treats and evaluates anything and everything to do with audio or hearing abilities of a person.",
+        "img": "https://www.myaustraliaimmigration.com/wp-content/uploads/2018/11/emigrating-to-australia-as-an-audiologist.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Dentist",
+        "description": "According to American Dental Association, a dentist is a doctor of oral health. Oral health includes teeth, tongue and gums. A dentist is known to diagnose and treat issues of these three areas.",
+        "img": "https://image.freepik.com/free-photo/beautiful-girl-sitting-dentist-s-office_1157-21014.jpg"
+    },
+    {
+        "id": 4,
+        "name": "ENT specialist",
+        "description": "ENT stands for ear, nose and throat. A specialist who treats and diagnoses the issues and troubles of these three areas. ",
+        "img": "https://thumbs.dreamstime.com/z/otolaryngology-icon-set-flat-style-doctor-treating-ear-throat-nose-ent-collection-design-elements-isolated-white-background-102443270.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Orthopaedic surgeon",
+        "description": "An orthopaedic surgeon is known to deal with issues relating to the musculoskeletal system. This means muscles and bones.",
+        "img": "https://arvhospital.com/wp-content/uploads/2020/12/Joint-Replacement-Surgery-Need-and-Recoverys-805x503.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Psychiatrists",
+        "description": "Mental health is a vast field which requires our uttermost attention. Therefore, to treat what goes inside a human brain is difficult, due to the uncertainty of it.",
+        "img": "https://image.freepik.com/free-photo/doctor-is-explaining-discomfort-patient-doctor-patient-sitting-doctor-s-office_64073-235.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Hotels",
+        "description": "We provide the best accommodation options for the patients. You can find best hotels near your hospital from our website.",
+        "img": "https://image.freepik.com/free-photo/modern-studio-apartment-design-with-bedroom-living-space_1262-12375.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Restaurent",
+        "description": "Our website suggests best food options for you.  From us you can find best restaurants of Bangladesh with food price and ratings.",
+        "img": "https://image.freepik.com/free-photo/cozy-restaurant-with-people-waiter_175935-230.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Pharmacies",
+        "description": "You can order any medicine from our website. Our website will show you the best prices of medicines from different pharmacies.",
+        "img": "https://image.freepik.com/free-photo/pharmacist-holding-medicine-box-capsule-pack-pharmacy-drugstore_67340-26.jpg"
+    }
+]

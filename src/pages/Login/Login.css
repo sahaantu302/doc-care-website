@@ -1,0 +1,27 @@
+.login-container {
+   overflow: hidden;
+   max-width: 600px;
+   margin: auto;
+   padding: 50px;
+
+
+}
+
+.login-container input {
+   display: block;
+   width: 100%;
+   margin: 5px 0;
+   border: 0px;
+   background-color: #111;
+   padding: 15px 40px;
+   color: #ddd;
+}
+
+.login-container button {
+   background-color: black;
+   padding: 10px 30px;
+   color: white;
+   border-radius: 10px;
+   font-weight: 700;
+   font-size: 20px;
+}
